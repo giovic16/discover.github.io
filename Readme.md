@@ -1,4 +1,4 @@
-## Maratona Discover by Rocketseat - 2022
+<h1 align='center'> Maratona Discover by Rocketseat - 2022 </h1>
 
 ## Tecnologias utilizadas
 
