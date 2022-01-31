@@ -11,7 +11,7 @@
 </div>
 
 <h3>Demonstração</h3>
-<img src="assets/demonstracao.mp4">
+<img src="./assets/demonstracao.mp4">
 
 <br>
 
