@@ -10,6 +10,9 @@
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<h3>Demonstração</h3>
+<img src="assets/demonstracao.mp4">
+
 <br>
 
-<p> Giovana Mendes </p>
+<p>Desenvolvido por Giovana Mendes </p>
